@@ -14,16 +14,16 @@ import base64
 
 
 st.set_page_config(
-page_title="ISP",
+page_title="SP",
 page_icon="logo.PNG",
 layout="centered",
 )
 
 st.markdown('#')
-st.title('Intelligent Salary Predictor')
+st.title('Salary Predictor')
 st.write("")
 st.write("")
-st.write("Welcome User! This intelligent salary predictor(ISP) helps you assess yourself in the field of data science. How? It's easy! Just fill in the survey form.")
+st.write("Welcome User! This salary predictor(SP) helps you assess yourself in the field of data science. How? It's easy! Just fill in the survey form.")
 st.write("After submitting your response to the form, you will receive three values:")
 st.markdown("*  A score: the maximum score that can be obtained is 1000. The closer your score is to this value, the more likely you are to receive a salary of $100,000*")
 st.markdown("* Probability percentage: the probability (out of 100) that you will receive $100,000*")
