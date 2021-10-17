@@ -5,8 +5,10 @@ The prediction is done by analyzing and comparing the user response with the dat
 
 ## Working Images  
 <img src="Images/Screenshot%20(49).png" width="1000">  
+
 ## Output  
 <img src="Images/Screenshot%20(48).png" width="1000">  
+
 ## Graph  
 <img src="Images/Screenshot%20(47).png" width="1000">   
 Working Link: https://predictsalary001.herokuapp.com/
